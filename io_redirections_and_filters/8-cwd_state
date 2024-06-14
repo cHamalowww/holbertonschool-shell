@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "-rw-r--r-- 1 root root   62 Jun 14 13:06  ls_cwd_content" > ls_cwd_content
+echo "ls -la" > ls_cwd_content
