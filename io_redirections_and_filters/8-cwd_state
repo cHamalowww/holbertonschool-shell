@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '-rw-rw-r--  1 julien julien  329 Sep 20 18:18 ls_cwd_content' > ls_cwd_content
+echo ²'-rw-rw-r--  1 julien julien    0 Sep 20 18:18 ls_cwd_content' > ls_cwd_content
